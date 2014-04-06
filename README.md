@@ -5,7 +5,7 @@ scriptcs-logger
 
 This [Script Pack](https://github.com/scriptcs/scriptcs/wiki) for [scriptcs](http://scriptcs.net/) provides a simple logger.
 
-This script pack allows a log level to be set at the script level and provides the following methods to write out messages at the appropriate log leve :
+This script pack allows a log level to be set at the script level and provides the following methods to write out messages at the appropriate log level :
 
 - Error
 - Warn
